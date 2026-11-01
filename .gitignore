@@ -1,0 +1,4 @@
+*.shc
+*.apk
+__pycache__/
+out/
