@@ -38,8 +38,9 @@ git submodule update --init --recursive
 git apply path/to/cat-harry-pc.patch
 ```
 
-Then build it the way the PC port's README says. Put `halloween.shc` in a `mods` folder in the folder you start the
-game from (next to `SilentHillPC.exe` if you double-click it):
+Then build it the way the PC port's README says. Download `cat-harry.shc` from **Releases**, make a `mods` folder in
+the folder you start the game from (next to `SilentHillPC.exe` if you double-click it), and save the file there as
+`halloween.shc` (the PC game only looks for that name):
 
 ```
 mods/halloween.shc
@@ -51,7 +52,7 @@ Your saves stay where they were: it's the same game, just with the costume code 
 
 1. Install the APK from [Silent Hill DS releases](https://github.com/TheYellowBee/silent-hill-dualscreen/releases) and set up the game
    files as its README says (your own `.bin` + `.cue` in **Download**).
-2. Download `halloween.shc` from **Releases** (any name ending in `.shc` works).
+2. Download `cat-harry.shc` from **Releases**.
 3. In the game: **Options → PC Options**, go to the last page, **Mods**, tap **Add Mod File** and pick the file.
    It says "Mod added". Load your save and Harry has his ears and tail.
 
